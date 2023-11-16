@@ -66,3 +66,38 @@ body{
 .hero nav a:hover{
     background-color: rgba(0,0,0,.6);
 }
+
+.container{
+    width: 80%;
+    margin: 20px auto 20px;
+}
+
+.container article{
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 10px 10px 20px 10px;
+    box-sizing: border-box;
+}
+
+.container article header{
+    background-color: #eee;
+    border-bottom: 2px solid #ccc;
+    padding: 5px;
+}
+
+.container article p{
+    font-size: 13px;
+    margin: 10px 0 15px 0;
+}
+
+.btn{
+    background-color: #ccc;
+    font-size: 12px;
+    padding: 7px;
+    border-radius: 10%;
+    display: inline-block;
+}
+
+.finish{
+    text-align: center;
+}
