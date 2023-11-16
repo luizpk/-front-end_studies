@@ -1,0 +1,101 @@
+body{
+    width: 80%;
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: rgb(51, 5, 94) ;
+    background-color: rgb(153, 149, 149);
+    margin: auto;
+}
+
+h1{
+    background-color: rgb(144, 125, 161);
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+.qualification{
+    font-size: 15px;
+    text-align: center;
+    margin: 10px auto;
+
+}
+
+.objetivo{
+    background-color: rgb(128, 122, 133);
+    font-size: 20px;
+    padding: 5px;
+    text-align:left;
+    margin: 30px auto 15px;
+   border-bottom: solid rgb(51, 5, 94);
+
+}
+
+p{
+    
+    font-size: 15px;
+    
+    text-align:left;
+    margin: 15px auto 15px;
+    
+}
+
+.experiencia{
+    background-color: rgb(128, 122, 133);
+    font-size: 20px;
+    padding: 5px;
+    text-align:left;
+    margin: 30px auto 15px;
+   border-bottom: solid rgb(51, 5, 94);
+
+}
+
+.li{
+
+    font-size: 15px;
+    text-align:left;
+    margin: 30px auto 0;
+
+}
+
+.formaçao{
+    background-color: rgb(128, 122, 133);
+    font-size: 20px;
+    padding: 5px;
+    text-align:left;
+    margin: 30px auto 15px;
+   border-bottom: solid rgb(51, 5, 94);
+
+
+}
+
+.cursos{
+    background-color: rgb(128, 122, 133);
+    font-size: 20px;
+    padding: 5px;
+    text-align:left;
+    margin: 30px auto 15px;
+   border-bottom: solid rgb(51, 5, 94);
+
+}
+
+.li2{
+    list-style:disc;
+    list-style-position: inside;
+}
+
+.li3{
+    list-style:disc;
+    list-style-position: inside;
+    margin-bottom: 15px ;
+}
+
+.idiomas{
+    background-color: rgb(128, 122, 133);
+    font-size: 20px;
+    padding: 5px;
+    text-align:left;
+    margin: 30px auto 15px;
+   border-bottom: solid rgb(51, 5, 94);
+}
